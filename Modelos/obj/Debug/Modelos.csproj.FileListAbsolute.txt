@@ -1,0 +1,6 @@
+C:\Users\Rafita\source\repos\Certamen1_poo\Modelos\bin\Debug\Modelos.dll
+C:\Users\Rafita\source\repos\Certamen1_poo\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Rafita\source\repos\Certamen1_poo\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Users\Rafita\source\repos\Certamen1_poo\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Rafita\source\repos\Certamen1_poo\Modelos\obj\Debug\Modelos.dll
+C:\Users\Rafita\source\repos\Certamen1_poo\Modelos\obj\Debug\Modelos.pdb

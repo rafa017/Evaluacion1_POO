@@ -1,0 +1,10 @@
+C:\Users\Rafita\source\repos\Certamen1_poo\Certamen1_poo\bin\Debug\Certamen1_poo.exe.config
+C:\Users\Rafita\source\repos\Certamen1_poo\Certamen1_poo\bin\Debug\Certamen1_poo.exe
+C:\Users\Rafita\source\repos\Certamen1_poo\Certamen1_poo\bin\Debug\Certamen1_poo.pdb
+C:\Users\Rafita\source\repos\Certamen1_poo\Certamen1_poo\bin\Debug\Modelos.dll
+C:\Users\Rafita\source\repos\Certamen1_poo\Certamen1_poo\bin\Debug\Modelos.pdb
+C:\Users\Rafita\source\repos\Certamen1_poo\Certamen1_poo\obj\Debug\Certamen1_poo.csprojAssemblyReference.cache
+C:\Users\Rafita\source\repos\Certamen1_poo\Certamen1_poo\obj\Debug\Certamen1_poo.csproj.CoreCompileInputs.cache
+C:\Users\Rafita\source\repos\Certamen1_poo\Certamen1_poo\obj\Debug\Certamen1_poo.csproj.CopyComplete
+C:\Users\Rafita\source\repos\Certamen1_poo\Certamen1_poo\obj\Debug\Certamen1_poo.exe
+C:\Users\Rafita\source\repos\Certamen1_poo\Certamen1_poo\obj\Debug\Certamen1_poo.pdb

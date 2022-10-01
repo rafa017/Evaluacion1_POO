@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1913
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certamen1_poo", "Certamen1_poo\Certamen1_poo.csproj", "{CC2196FF-4B28-4603-B7ED-23AA2E54778B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{99D536E4-315B-487B-A885-6E41C825D9DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2196FF-4B28-4603-B7ED-23AA2E54778B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2196FF-4B28-4603-B7ED-23AA2E54778B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2196FF-4B28-4603-B7ED-23AA2E54778B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2196FF-4B28-4603-B7ED-23AA2E54778B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D536E4-315B-487B-A885-6E41C825D9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D536E4-315B-487B-A885-6E41C825D9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D536E4-315B-487B-A885-6E41C825D9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D536E4-315B-487B-A885-6E41C825D9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B751C7E-D273-4C64-8837-DA2C0461253D}
+	EndGlobalSection
+EndGlobal
